@@ -1,0 +1,36 @@
+Source: kmouth
+Section: kde
+Priority: optional
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Sune Vuorela <sune@debian.org>, Modestas Vainius <modax@debian.org>,
+ Eshat Cakar <info@eshat.de>, Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>
+Build-Depends: kde-sc-dev-latest (>= 4:4.8.4),
+ cmake, debhelper (>= 8.0.0), pkg-kde-tools (>= 0.12),
+ kdelibs5-dev (>= 4:4.8)
+Standards-Version: 3.9.3
+Homepage: http://www.kde.org
+Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/kmouth.git
+Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/kmouth.git
+
+Package: kmouth
+Architecture: any
+Section: utils
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: type-and-say frontend for speech synthesizers
+ KDE's type-and-say frontend for speech synthesizers.
+ .
+ It includes a history of spoken sentences from which the user can select
+ sentences to be re-spoken.
+ .
+ This package is part of the KDE accessibility module.
+
+Package: kmouth-dbg
+Architecture: any
+Section: debug
+Priority: extra
+Depends: kmouth (= ${binary:Version}), ${misc:Depends}
+Description: debugging symbols for kmouth
+ This package contains debugging files used to investigate problems with
+ kmouth.
+ .
+ This package is part of the KDE accessibility module.
