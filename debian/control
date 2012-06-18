@@ -30,6 +30,8 @@ Architecture: any
 Section: debug
 Priority: extra
 Depends: kmouth (= ${binary:Version}), ${misc:Depends}
+Breaks: kdeaccessibility-dbg
+Replaces: kdeaccessibility-dbg
 Description: debugging symbols for kmouth
  This package contains debugging files used to investigate problems with
  kmouth.
