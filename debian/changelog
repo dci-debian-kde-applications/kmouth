@@ -1,3 +1,9 @@
+kmouth (4.8.4-3) UNRELEASED; urgency=low
+
+
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 21 Jun 2012 13:38:24 -0300
+
 kmouth (4.8.4-2) unstable; urgency=low
 
   * Add Breaks+Replaces to kmouth-dbg against kdeaccessibility-dbg.
