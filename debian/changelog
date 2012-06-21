@@ -1,4 +1,4 @@
-kmouth (4:4.8.4-3) UNRELEASED; urgency=low
+kmouth (4:4.8.4-3) unstable; urgency=low
 
   * The "I missed the epoch" release.
   * Update debian/copyright:
@@ -6,7 +6,7 @@ kmouth (4:4.8.4-3) UNRELEASED; urgency=low
     - Add a comment to the doc license to explain why some keywords appear and
       how they are expanded later.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 21 Jun 2012 13:38:24 -0300
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Thu, 21 Jun 2012 13:42:04 -0300
 
 kmouth (4.8.4-2) unstable; urgency=low
 
