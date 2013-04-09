@@ -1,3 +1,10 @@
+kmouth (4:4.10.2-1) UNRELEASED; urgency=low
+
+  * New upstream release.
+  * Bump build-deps.
+
+ -- Sune Vuorela <sune@debian.org>  Tue, 09 Apr 2013 07:23:49 +0000
+
 kmouth (4:4.8.4-3) unstable; urgency=low
 
   * The "I missed the epoch" release.
