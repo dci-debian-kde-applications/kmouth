@@ -1,6 +1,7 @@
 kmouth (4:4.14.0-1) UNRELEASED; urgency=medium
 
   * New upstream release.
+  * Recommends jovie.
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 22 Aug 2014 06:12:45 +0200
 

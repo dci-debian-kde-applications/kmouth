@@ -34,6 +34,7 @@ Architecture: any
 Section: debug
 Priority: extra
 Depends: kmouth (= ${binary:Version}), ${misc:Depends}
+Recommends: jovie
 Breaks: kdeaccessibility-dbg (<< 4:4.8)
 Replaces: kdeaccessibility-dbg (<< 4:4.8)
 Description: debugging symbols for kmouth
