@@ -1,3 +1,9 @@
+kmouth (4:4.14.0-1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 22 Aug 2014 06:12:45 +0200
+
 kmouth (4:4.12.4-1) unstable; urgency=medium
 
   * New upstream release.
