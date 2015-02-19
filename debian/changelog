@@ -25,11 +25,11 @@ kmouth (4:14.11.97-0ubuntu1) vivid; urgency=medium
 
 kmouth (4:14.11.95-0ubuntu1) vivid; urgency=medium
 
-  * Initial release for KDE applications 14.12 series 
+  * Initial release for KDE applications 14.12 series
    - Change maintainer to Debian/Kubuntu
-   - Fix Watch file applications locations 
+   - Fix Watch file applications locations
    - Fix VCS for new kde-applications location
-  * Debian merge, no remaining changes. 
+  * Debian merge, no remaining changes.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 26 Nov 2014 16:27:34 +0000
 
@@ -269,7 +269,7 @@ kmouth (4:4.10.2-0ubuntu1) raring; urgency=low
 kmouth (4:4.10.1-0ubuntu1) raring-proposed; urgency=low
 
   * New upstream bugfix release
-  * Drop obsolete lintian-overrides file from kdeaccessibility 
+  * Drop obsolete lintian-overrides file from kdeaccessibility
 
  -- Philip Muškovac <yofel@kubuntu.org>  Tue, 05 Mar 2013 16:31:52 +0000
 
@@ -365,7 +365,7 @@ kmouth (4:4.8.2-0ubuntu1) precise; urgency=low
 
 kmouth (4:4.8.1-0ubuntu1) precise; urgency=low
 
-  * New upstream release 
+  * New upstream release
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sun, 04 Mar 2012 21:23:50 +0100
 
@@ -412,4 +412,3 @@ kmouth (4.8.4-1) unstable; urgency=low
     anymore in the source tarball.
 
  -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sun, 17 Jun 2012 19:16:54 -0300
-
