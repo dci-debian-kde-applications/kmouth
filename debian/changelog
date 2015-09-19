@@ -1,6 +1,7 @@
 kmouth (4:15.08.0-1~) UNRELEASED; urgency=medium
 
   * New upstream release (15.08.0).
+  * Update install files.
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Sep 2015 22:11:30 +0200
 
