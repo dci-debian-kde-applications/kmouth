@@ -1,3 +1,11 @@
+kmouth (4:15.08.0-2~1.gbpc313eb) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @c313eb342a74597f701fa360b898ccc51692ae8b **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:04:11 +0200
+
 kmouth (4:15.08.0-1) unstable; urgency=medium
 
   * New upstream release (15.08.0).
