@@ -1,10 +1,19 @@
-kmouth (4:15.08.0-2~1.gbpc313eb) UNRELEASED; urgency=medium
+kmouth (4:15.08.0-2~2.gbp7a36cf) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @7a36cf6f38133672ca906a877021d22af09ad6a4 **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @c313eb342a74597f701fa360b898ccc51692ae8b **
 
   * Bump Standards-Version to 3.9.8
+  * Install files to debian/tmp
+  * Migrate dbg package to automatic dbgsym
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:04:11 +0200
+  [ Maximiliano Curia ]
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 11:14:14 +0200
 
 kmouth (4:15.08.0-1) unstable; urgency=medium
 
