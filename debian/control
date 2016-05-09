@@ -28,18 +28,3 @@ Description: type-and-say frontend for speech synthesizers
  sentences to be re-spoken.
  .
  This package is part of the KDE accessibility module.
-
-Package: kmouth-dbg
-Architecture: any
-Section: debug
-Priority: extra
-Depends: kmouth (= ${binary:Version}), ${misc:Depends}
-Recommends: jovie
-Breaks: kdeaccessibility-dbg (<< 4:4.8)
-Replaces: kdeaccessibility-dbg (<< 4:4.8)
-Description: debugging symbols for kmouth
- This package contains the debugging symbols for kmouth. It is to be used
- in order to be able provide proper back traces for possible crashes or
- for running kmouth in gdb or valgrind for meaningful output
- .
- This package is part of the KDE accessibility module.
