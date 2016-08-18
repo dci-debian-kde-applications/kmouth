@@ -1,3 +1,11 @@
+kmouth (4:16.08.0-1~1.gbp05bf54) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @05bf5417b40839d24f6e23c75d6663d2161c9c07 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 23:03:10 +0200
+
 kmouth (4:15.08.0-2) unstable; urgency=medium
 
   [ Automatic packaging ]
