@@ -1,13 +1,13 @@
-kmouth (4:16.08.0-0r1) UNRELEASED; urgency=medium
+kmouth (4:16.08.0-1) unstable; urgency=medium
 
-  [ Pino Toscano ]
+  * Team upload.
   * New upstream release.
   * Stop forcing the local installation to debian/tmp, letting the package
     directory as install place.
     - remove kmouth.install, no more used now
   * Remove not-installed file, no more used now.
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 24 Aug 2016 18:54:07 +0200
+ -- Pino Toscano <pino@debian.org>  Wed, 24 Aug 2016 18:57:19 +0200
 
 kmouth (4:15.08.0-2) unstable; urgency=medium
 
