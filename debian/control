@@ -20,7 +20,6 @@ Build-Depends: cmake,
                libkf5kio-dev,
                libkf5widgetsaddons-dev,
                libkf5xmlgui-dev,
-               libqt5texttospeech5-dev,
                pkg-kde-tools (>= 0.12),
                qtbase5-dev
 Standards-Version: 3.9.8
